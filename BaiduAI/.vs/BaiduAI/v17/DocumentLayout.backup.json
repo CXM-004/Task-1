@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\windows\u7A0B\u5E8F\u8BBE\u8BA1\\BaiduAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|d:\\windows\u7A0B\u5E8F\u8BBE\u8BA1\\baiduai\\baiduai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|solutionrelative:baiduai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|D:\\windows\u7A0B\u5E8F\u8BBE\u8BA1\\BaiduAI\\baiduai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AC1DCCB-00B5-4057-9D73-6A9C88050D0F}|BaiduAI\\BaiduAI.csproj|solutionrelative:baiduai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\windows\u7A0B\u5E8F\u8BBE\u8BA1\\BaiduAI\\BaiduAI\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiduAI\\Form1.cs",
+              "ToolTip": "D:\\windows\u7A0B\u5E8F\u8BBE\u8BA1\\BaiduAI\\BaiduAI\\Form1.cs*",
+              "RelativeToolTip": "BaiduAI\\Form1.cs*",
+              "ViewState": "AgIAAHgCAAAAAAAAAAAAAJwCAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:25:12.994Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\windows\u7A0B\u5E8F\u8BBE\u8BA1\\BaiduAI\\BaiduAI\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiduAI\\Form1.cs",
+              "ToolTip": "D:\\windows\u7A0B\u5E8F\u8BBE\u8BA1\\BaiduAI\\BaiduAI\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "BaiduAI\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:25:11.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
